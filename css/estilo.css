@@ -1,0 +1,59 @@
+.menu{
+    background-color: #E62702;
+    font-size: 20px;
+}
+
+#mover1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.talla_letra{ 
+   font-size: 80px;
+   color: white;
+   display: flex;
+   padding: 0px;
+   align-items: center;
+   text-transform: uppercase;
+   letter-spacing: 20px;
+   margin-bottom: 500px;
+   text-shadow: 2px 2px 1px black;
+}
+
+.phone{
+    background-color: #E5E5E5;
+    color: black;
+    font-size: 20px;
+    height: 180px;
+    padding: 2px 0px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.phone_button{
+   
+    background-color: #FF9646;
+    padding: 10px 25px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+
+.phone_button:hover{
+    background-color: #A54200;
+    color: white;
+    box-shadow: 1px 1px 5px 1px black;
+}
+
+.tienda_title{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+

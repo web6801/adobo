@@ -1,0 +1,26 @@
+@media (max-width: 1735px){
+   
+    .talla_letra{ 
+        font-size: 50px;
+        color: white;
+        display: flex;
+        padding: 0px;
+        align-items: center;
+        text-transform: uppercase;
+        letter-spacing: 20px;
+        margin-bottom: -10px;
+     }
+}
+
+@media (max-width: 1335px){
+   
+    .talla_letra{ 
+        font-size: 50px;
+        color: white;
+        display: flex;
+        padding: 0px;
+        align-items: center;
+        text-transform: uppercase;
+        letter-spacing: 20px;
+     }
+}
